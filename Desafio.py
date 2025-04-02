@@ -1,3 +1,4 @@
-entrada1=int(input("digite a entrada: "))
-entrada2=int(input("digite a entrada: "))
-print(f'saida 6:05')
+'''problema:
+Dados os valores de horários abaixo, decifre a lógica e faça um código para executar.'''
+   #comentario#
+
